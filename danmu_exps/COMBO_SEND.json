@@ -1,0 +1,37 @@
+{
+    "cmd": "COMBO_SEND",
+    "data": {
+        "uid": 171686762,
+        "ruid": 44070158,
+        "uname": "XCigarettes",
+        "r_uname": "是幼情呀",
+        "combo_num": 24,
+        "gift_id": 30607,
+        "gift_num": 0,
+        "batch_combo_num": 24,
+        "gift_name": "小心心",
+        "action": "投喂",
+        "combo_id": "gift:combo_id:171686762:44070158:30607:1609921199.4924",
+        "batch_combo_id": "batch:gift:combo_id:171686762:44070158:30607:1609921199.4933",
+        "is_show": 1,
+        "send_master": null,
+        "name_color": "",
+        "total_num": 24,
+        "medal_info": {
+            "target_id": 178429408,
+            "special": "",
+            "icon_id": 0,
+            "anchor_uname": "",
+            "anchor_roomid": 0,
+            "medal_level": 15,
+            "medal_name": "滑稽果",
+            "medal_color": 12478086,
+            "medal_color_start": 12478086,
+            "medal_color_end": 12478086,
+            "medal_color_border": 12478086,
+            "is_lighted": 1,
+            "guard_level": 0
+        },
+        "combo_total_coin": 0
+    }
+}

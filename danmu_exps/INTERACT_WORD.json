@@ -1,0 +1,38 @@
+{
+    "cmd": "INTERACT_WORD",
+    "data": {
+        "uid": 96859978,
+        "uname": "秘密哈废话",
+        "uname_color": "",
+        "identities": [
+            3,
+            1
+        ],
+        "msg_type": 1,
+        "roomid": 2603963,
+        "timestamp": 1609920021,
+        "score": 1609941238710,
+        "fans_medal": {
+            "target_id": 44070158,
+            "medal_level": 10,
+            "medal_name": "幼宝",
+            "medal_color": 9272486,
+            "medal_color_start": 9272486,
+            "medal_color_end": 9272486,
+            "medal_color_border": 9272486,
+            "is_lighted": 1,
+            "guard_level": 0,
+            "special": "",
+            "icon_id": 0,
+            "anchor_roomid": 2603963,
+            "score": 11217
+        },
+        "is_spread": 0,
+        "spread_info": "",
+        "contribution": {
+            "grade": 0
+        },
+        "spread_desc": "",
+        "tail_icon": 0
+    }
+}

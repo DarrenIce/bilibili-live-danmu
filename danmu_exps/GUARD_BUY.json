@@ -1,0 +1,14 @@
+{
+    "cmd": "GUARD_BUY",
+    "data": {
+        "uid": 496490112,
+        "username": "7077073没有名字sans",
+        "guard_level": 3,
+        "num": 1,
+        "price": 198000,
+        "gift_id": 10003,
+        "gift_name": "舰长",
+        "start_time": 1609930855,
+        "end_time": 1609930855
+    }
+}

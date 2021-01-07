@@ -1,0 +1,23 @@
+{
+    "cmd": "USER_TOAST_MSG",
+    "data": {
+        "op_type": 3,
+        "uid": 496490112,
+        "username": "7077073没有名字sans",
+        "guard_level": 3,
+        "is_show": 0,
+        "anchor_show": true,
+        "user_show": true,
+        "toast_msg": "\u003c%7077073没有名字sans%\u003e 自动续费了舰长",
+        "num": 1,
+        "price": 138000,
+        "role_name": "舰长",
+        "unit": "月",
+        "start_time": 1609930855,
+        "end_time": 1609930855,
+        "target_guard_count": 4280,
+        "color": "#00D1F1",
+        "payflow_id": "2101061900312342101123805",
+        "svga_block": 0
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "cmd": "ENTRY_EFFECT",
+    "data": {
+        "id": 4,
+        "uid": 386294629,
+        "target_id": 44070158,
+        "mock_effect": 0,
+        "face": "https://i1.hdslb.com/bfs/face/2d4a5a638d24551b8a71e39700f1844fb2c7f2d8.jpg",
+        "privilege_type": 3,
+        "copy_writing": "欢迎舰长 \u003c%郸思寒%\u003e  进入直播间",
+        "copy_color": "#ffffff",
+        "highlight_color": "#E6FF00",
+        "priority": 1,
+        "basemap_url": "https://i0.hdslb.com/bfs/live/mlive/f34c7441cdbad86f76edebf74e60b59d2958f6ad.png",
+        "show_avatar": 1,
+        "effective_time": 2,
+        "web_basemap_url": "",
+        "web_effective_time": 0,
+        "web_effect_close": 0,
+        "web_close_time": 0,
+        "business": 1,
+        "copy_writing_v2": "欢迎舰长 \u003c%郸思寒%\u003e 进入直播间",
+        "icon_list": [],
+        "max_delay_time": 7
+    }
+}
