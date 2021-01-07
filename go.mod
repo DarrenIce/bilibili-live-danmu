@@ -6,5 +6,6 @@ require (
 	github.com/asmcos/requests v0.0.0-20200816142649-95abc76c8cac
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/gorilla/websocket v1.4.2
+	github.com/issue9/term/v2 v2.1.3
 	github.com/tidwall/gjson v1.6.7
 )
